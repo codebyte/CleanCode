@@ -17,10 +17,9 @@ Boolean ( Predicate )
 Method ( Verb ) 
 DerivedClass ( Adjective )
 
-Predicates, Adjectives for
-VariableNames,  Method Name, boolean Name, DerivedObjects
 
-1 ) Length of Names based on their Scope. 
+
+Length of Names based on their Scope. 
 
 a ) Variable Name, 
 Larger the scope,  Larger the Name
