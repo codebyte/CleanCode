@@ -11,9 +11,6 @@ Clean code reads like well-written prose. Clean code never obscures the designer
 
 Write code in such a way that when it is read by ppl, it should be like a poetry, book
 
-Use Nouns, 
-
-
 Variable ( Noun ),
 ClassName ( Noun )
 Boolean ( Predicate ) 
