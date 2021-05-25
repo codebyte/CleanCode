@@ -1,0 +1,30 @@
+Bjarne Stroustoup. 
+I like my code to be elegant and efficient. The logic should be straightforward to make it hard for bugs to hide, the dependencies minimal to ease maintenance, error handling complete according to an articulated strategy, and performance close to optimal so as not to tempt people to make the code messy with unprincipled optimizations. Clean code does one thing well.
+
+Grady Booch
+Clean code is simple and direct. Clean code reads like well-written prose. Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of control.
+
+
+Write code in such a way that when it is read by ppl, it should be like a poetry, book
+
+Use Nouns, 
+
+
+Variable ( Noun ),
+ClassName ( Noun )
+Boolean ( Predicate ) 
+Method ( Verb ) 
+DerivedClass ( Adjective )
+
+Predicates, Adjectives for
+VariableNames,  Method Name, boolean Name, DerivedObjects
+
+1 ) Length of Names based on their Scope. 
+
+a ) Variable Name, 
+Larger the scope,  Larger the Name
+Smaller the scope, Smaller the Name. 
+
+b ) ClassNames, MethodNames
+Larger the scope, Smaller the Name, 
+Smaller the scope, Larger the Name,
